@@ -1,0 +1,26 @@
+{
+  "name": "use-filter",
+  "version": "1.0.0",
+  "description": "A flexible React Hooks components to manage search and filter state in pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tazirahmb/use-filter.git"
+  },
+  "keywords": [
+    "filter",
+    "state",
+    "hooks",
+    "react-hooks",
+    "react"
+  ],
+  "author": "tazirahmb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tazirahmb/use-filter/issues"
+  },
+  "homepage": "https://github.com/tazirahmb/use-filter#readme"
+}
